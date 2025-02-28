@@ -24,10 +24,10 @@ import java.util.List;
 @Plugin(
         id = "hopecommander",
         name = "HopeCommander",
-        version = "2.0.0",
-        url = "https://cringe.dev/",
+        version = "2.0.1",
+        url = "https://larrox.dev/",
         description = "The easy to use Spigot to Bungeecord/Velocity Command bridge for your Pluginss",
-        authors = {"hopedev"}
+        authors = {"hopedev", "larrox"}
 )
 public class VelocityMain {
 

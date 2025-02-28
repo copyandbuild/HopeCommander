@@ -22,11 +22,11 @@ public class Spigot extends UniversalUsage {
 
     @Override
     public void setup() {
-        SpigotMain spigotMain = (SpigotMain) this.pluginInstance;
+        me.hopedev.hopecommander.spigot.SpigotMain spigotMain = (me.hopedev.hopecommander.spigot.SpigotMain) this.pluginInstance;
         UniversalUsage.universalUsage = this;
         System.out.println("Starting HopeCommander...");
         System.out.println("Registering Commands..");
-        spigotMain.getCommand("hopecommander").setExecutor(new SpigotCommand());
+        spigotMain.getCommand("hopecommander").setExecutor(new me.hopedev.hopecommander.spigot.SpigotCommand());
         System.out.append("Registering PluginChannels..");
         spigotMain.getServer().getMessenger().registerOutgoingPluginChannel(spigotMain, "hope:hopecmdsend");
         System.out.println("HopeCommander enabled successfully!");
