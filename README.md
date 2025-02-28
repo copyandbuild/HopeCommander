@@ -15,7 +15,7 @@ This plugin is mean't as an easy to use alternative for Plugins used in Networks
 
 
 
-Still lost? DM me on Discord @ `larrox`
+Still lost? DM me on Discord @ `larrox.dev`
 
  
  
