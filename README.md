@@ -4,7 +4,7 @@
 This plugin is mean't as an easy to use alternative for Plugins used in Networks that require Commands that can only be used on the Bungeecord Proxy.
 ## How to install:
 
- 1. Download the Latest Release from [here](https://github.com/Hopefuls/HopeCommander/releases).
+ 1. Download the Latest Release from [here](https://github.com/copyandbuild/HopeCommander/releases/).
  2. Put the .jar file on **all** Spigot-Subservers (or only the ones you would need it on) and your Bungeecord Proxy.
  3. And you're done!
  
@@ -15,7 +15,7 @@ This plugin is mean't as an easy to use alternative for Plugins used in Networks
 
 
 
-Still lost? DM me on Discord @ `Hope#1000`, join the [Skamps-Dev Team Discord](https://discord.com/invite/ycDG6rS) and Ping me, or join my [Development Server](https://discord.gg/QHTVhaD).
+Still lost? DM me on Discord @ `larrox`
 
  
  
