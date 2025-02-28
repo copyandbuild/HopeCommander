@@ -25,4 +25,5 @@ Still lost? DM me on Discord @ `larrox`
 
 - if you're a developer of one of the many anticheats, make sure to dm me, i would be happy :)
 
-
+ ## Credits
+ - Main Author: https://github.com/hopefuls/HopeCommander/
